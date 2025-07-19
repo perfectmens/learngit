@@ -1,0 +1,1 @@
+print("new pyhton form logesh laptop")
